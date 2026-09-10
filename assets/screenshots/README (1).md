@@ -1,17 +1,12 @@
-# Project Screenshots
+The following screenshots capture the core workflows and user interface of your project:
 
-Store the important screenshots/photos of your project in this folder[cite: 1].
-
-## Included Screenshots
-
-The following screenshots capture the core workflows and user interface of **CraftConnect (AI Marketplace for Artisans)**:
-
-1. **`01-login.png`** – User login and authentication screen.
-2. **`02-dashboard.png`** – Artisan sales dashboard showing revenue, metrics, and order management.
-3. **`03-home-marketplace.png`** – Home marketplace view for discovering handmade products and categories.
-4. **`04-feature-ai-studio.png`** – AI Image Studio for background removal, lighting correction, and smart cropping.
-5. **`05-feature-auto-catalog.png`** – Auto Catalog interface featuring voice note integration and pricing generation.
-6. **`06-my-orders.png`** – Order tracking and history screen displaying delivery timelines.
-7. **`07-notifications.png`** – Real-time notification center for order updates and new product listings.
-8. **`08-add-product.png`** – Product creation form for adding new handcrafted items.
-9. **`09-product-details.png`** – Detailed view of an individual artisan product showcasing pricing and maker information.
+1. **`01-login.jpeg`** – Description of the login or user authentication screen.
+2. **`02-dashboard.jpeg`** – Description of the main dashboard or sales overview.
+3. **`03-home-marketplace.jpeg`** – Description of the marketplace home view.
+4. **`04-feature-ai-studio.jpeg`** – Description of the AI Image Studio workflow.
+5. **`05-feature-auto-catalog.jpeg`** – Description of the auto-catalog or product listing feature.
+6. **`06-my-orders.jpeg`** – Description of the order tracking screen.
+7. **`07-notifications.jpeg`** – Description of the notification center.
+8. **`08-add-product.jpeg`** – Description of the product creation form.
+9. **`09-product-details.jpeg`** – Description of the detailed product view.
+10. **`10-placeholder.jpeg`** – Description of your tenth project screenshot or feature.
